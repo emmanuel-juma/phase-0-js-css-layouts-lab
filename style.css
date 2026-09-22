@@ -33,11 +33,11 @@
 }
 
 @media (max-with: 768px) {
-    .cat-breed-container {
+    .cat-container {
         flex-direction: column;
         align-items: center;
     }
-    .cat-breed-card {
+    .cat-breed {
         flex: 1 1 100%;
         max-width: 100%;
     }
